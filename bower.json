@@ -1,0 +1,23 @@
+{
+  "name": "project-wall",
+  "version": "0.0.0",
+  "homepage": "https://github.com/wayneaustin/project-wall",
+  "authors": [
+    "Wayne Austin email = w-austin@hotmail.co.uk"
+  ],
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.kinetic": "~2.1.0"
+  }
+}
